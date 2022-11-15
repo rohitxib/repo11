@@ -16,6 +16,7 @@
 		17A8B2B72923AAC10021E8C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17A8B2B52923AAC10021E8C5 /* LaunchScreen.storyboard */; };
 		17A8B2BA2923AAC10021E8C5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A8B2B92923AAC10021E8C5 /* main.m */; };
 		17A8B2C22923B7CF0021E8C5 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 17A8B2C12923B7CF0021E8C5 /* ViewController2.m */; };
+		17E7972C2923CC060026DB14 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E7972B2923CC060026DB14 /* ViewController3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,8 @@
 		17A8B2B92923AAC10021E8C5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		17A8B2C02923B7CF0021E8C5 /* ViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
 		17A8B2C12923B7CF0021E8C5 /* ViewController2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		17E7972A2923CC060026DB14 /* ViewController3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController3.h; sourceTree = "<group>"; };
+		17E7972B2923CC060026DB14 /* ViewController3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +83,8 @@
 				17A8B2B02923AABF0021E8C5 /* Demogit.xcdatamodeld */,
 				17A8B2C02923B7CF0021E8C5 /* ViewController2.h */,
 				17A8B2C12923B7CF0021E8C5 /* ViewController2.m */,
+				17E7972A2923CC060026DB14 /* ViewController3.h */,
+				17E7972B2923CC060026DB14 /* ViewController3.m */,
 			);
 			path = Demogit;
 			sourceTree = "<group>";
@@ -160,6 +165,7 @@
 				17A8B2A62923AABF0021E8C5 /* AppDelegate.m in Sources */,
 				17A8B2A92923AABF0021E8C5 /* SceneDelegate.m in Sources */,
 				17A8B2C22923B7CF0021E8C5 /* ViewController2.m in Sources */,
+				17E7972C2923CC060026DB14 /* ViewController3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
