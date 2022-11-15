@@ -15,12 +15,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"it is second vc");
-    NSLog(@"it is second vc");
-    NSLog(@"it is second vc");
-    NSLog(@"it is second vc");
-    NSLog(@"it is second vc");
-    NSLog(@"it is second vc");
+   
 }
 
 
