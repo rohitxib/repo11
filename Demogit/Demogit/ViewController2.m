@@ -18,6 +18,9 @@
     NSLog(@"it is second vc");
     NSLog(@"it is second vc");
     NSLog(@"it is second vc");
+    NSLog(@"it is second vc");
+    NSLog(@"it is second vc");
+    NSLog(@"it is second vc");
 }
 
 
