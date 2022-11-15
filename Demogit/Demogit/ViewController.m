@@ -17,6 +17,7 @@
     [super viewDidLoad];
     NSLog(@"hello world");
     NSLog(@"hello world");NSLog(@"hello world");NSLog(@"hello world");NSLog(@"hello world");NSLog(@"hello world");
+    NSLog(@"secondcomment");
     
 }
 
